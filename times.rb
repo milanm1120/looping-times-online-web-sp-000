@@ -6,4 +6,4 @@ def using_times(phrase)
   end
 end
 
-using_times 
+using_times(phrase)
