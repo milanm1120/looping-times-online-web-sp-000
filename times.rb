@@ -5,3 +5,5 @@ def using_times(phrase)
     puts phrase
   end
 end
+
+using_times 
